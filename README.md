@@ -12,3 +12,4 @@ One way of achieving this is with `socat` tool
 sudo socat PTY,raw,mode=666,echo=0,link=/dev/ttyVUSB0 tcp:10.147.17.10:7777
 ```
 
+
